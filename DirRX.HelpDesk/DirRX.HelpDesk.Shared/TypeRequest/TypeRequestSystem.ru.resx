@@ -70,4 +70,7 @@
   <data name="Enum_Type_access" xml:space="preserve">
     <value>access</value>
   </data>
+  <data name="Property_Code" xml:space="preserve">
+    <value>Код</value>
+  </data>
 </root>
