@@ -57,6 +57,26 @@
       "IsQuickSearchAllowed": true,
       "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.StringEditorToStringBinder",
       "PreviousPropertyGuid": "1dcedc29-5140-4770-ac92-eabc212326a1"
+    },
+    {
+      "$type": "Sungero.Metadata.EnumPropertyMetadata, Sungero.Metadata",
+      "NameGuid": "77b3f751-bbba-4c47-ad70-9391785757d0",
+      "Name": "Type",
+      "Code": "Type",
+      "DirectValues": [
+        {
+          "NameGuid": "11d2c07a-c7a4-4e48-a06c-d9ab51545e16",
+          "Name": "access",
+          "Code": "access"
+        },
+        {
+          "NameGuid": "f986c5bf-2abf-4917-9685-cd911b275dba",
+          "Name": "wish",
+          "Code": "wish"
+        }
+      ],
+      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.DropDownEditorToEnumerationBinder",
+      "PreviousPropertyGuid": "749bf7eb-a948-4e28-862b-efe28518a299"
     }
   ],
   "PublicStructures": [],
@@ -83,7 +103,7 @@
   "Versions": [
     {
       "Type": "EntityMetadata",
-      "Number": 11
+      "Number": 12
     }
   ]
 }
